@@ -1,0 +1,36 @@
+{
+  "name": "tch-command-clear",
+  "version": "0.0.5",
+  "description": "清理老的分支",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "gerdy"
+  },
+  "license": "ISC",
+  "_id": "tch-command-clear@0.0.1",
+  "_shasum": "e4c5f03e95ccb116e39ab70ef4cf968653f28499",
+  "_from": "tch-command-clear@^0.0.1",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "gerdy",
+    "email": "imfpe@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "gerdy",
+      "email": "imfpe@qq.com"
+    }
+  ],
+  "dist": {
+    "shasum": "e4c5f03e95ccb116e39ab70ef4cf968653f28499",
+    "tarball": "http://registry.npmjs.org/tch-command-clear/-/tch-command-clear-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/tch-command-clear/-/tch-command-clear-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
